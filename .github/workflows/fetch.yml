@@ -2,7 +2,7 @@ name: Yahoo Realtime Fetch
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # JST 6時
+    - cron: '0 21 * * *'  # JST 9時
   workflow_dispatch:
 
 jobs:
